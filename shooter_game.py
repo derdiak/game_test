@@ -6,7 +6,7 @@ font1 = font.SysFont('Arial', 80)
 win = font1.render('YOU WIN!', True, (255, 255, 255))
 lose = font1.render('YOU LOSE!', True, (180, 0, 0))
 
-font2 = font.SysFont('Arial', 36)
+font2 = font.SysFont('Times New Roman', 36)
 
 #фоновая музыка
 mixer.init()
